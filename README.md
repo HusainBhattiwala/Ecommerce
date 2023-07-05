@@ -1,6 +1,5 @@
 # Ecommerce
-## Its an responive ecommerce website with an admin dashboard where admin can see status of order is paid and 
-   email the customer for there dispatch
+## Its an responive ecommerce website with an admin dashboard where admin can see status of order is paid and email the customer for there dispatch.
 ## Images
 ![ecommerce-1](https://github.com/HusainBhattiwala/Ecommerce/assets/94444107/d533ca45-b1ea-4584-aeb5-8b357f49ce34)
 
